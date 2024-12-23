@@ -1,7 +1,7 @@
 import time
 from contact import Contact
 
-class Phonebook():
+class App():
 
   def __init__(self):
     self.contact_list = []
